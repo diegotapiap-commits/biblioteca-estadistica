@@ -1,4 +1,3 @@
-
 def media(datos):
   suma = 0
   for x in datos: 
